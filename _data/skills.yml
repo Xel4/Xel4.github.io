@@ -1,0 +1,40 @@
+Languages:
+  - C
+  - C++
+  - C#
+  - ARM Assembly
+  - Python
+  - PowerShell
+  - Bash
+  - MATLAB
+  - GLSL
+Development Tools:
+  - Git
+  - Subversion
+  - CMake
+  - Visual Studio
+  - GNU Make
+  - GDB
+  - Docker
+Project Management:
+  - Agile Development
+  - GitHub
+  - GitLab
+  - Azure DevOps
+  - Trello
+Operating Systems:
+  - Windows
+  - Linux
+  - FreeRTOS
+Game Development:
+  - Unreal Engine
+  - Unity
+  - OpenGL
+  - Vulkan API
+Audio:
+  - REAPER
+  - Audacity
+  - Wwise
+  - FMOD Studio
+  - JUCE
+  - Ambisonics

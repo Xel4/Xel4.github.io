@@ -3,16 +3,14 @@
   <h2 class="mb-3">{{ include.title }}</h2>
 
   {% for category in include.source %}
-  <div class="row">
-    <div class="col-12">
-      <h4>{{ category[0] }}</h4>
-      <ul>
+  <ul class="row">
+    <li class="col-12">
+      <b>{{ category[0] }}</b>:
         {% for skill in category[1] %}
-        <li>{{ skill }}</li>
+          {{ skill }}
         {% endfor %}
-      </ul>
-    </div>
-  </div>
+    </li>
+  </ul>
   {% endfor %}
 
 </div>

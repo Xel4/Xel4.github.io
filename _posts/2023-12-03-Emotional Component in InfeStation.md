@@ -1,6 +1,6 @@
 ---
 title: Emotional Component in “InfeStation”
-tags: [Audio]
+tags: [InfeStation, Unreal Engine 5, Programming]
 style:
 color:
 comments: true

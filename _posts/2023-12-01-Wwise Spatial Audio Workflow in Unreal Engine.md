@@ -1,6 +1,6 @@
 ---
 title: Wwise Spatial Audio Workflow in Unreal Engine
-tags: [Audio]
+tags: [Audio, Unreal Engine 5, Wwise]
 style:
 color:
 comments: true

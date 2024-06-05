@@ -11,12 +11,11 @@
 {% include head.html %}
 
 <body class="h-100 d-flex flex-column">
-
-  <main class="flex-shrink-0 container mt-5">
-    {% include navbar.html %}
+  
+  {% include navbar.html %}
+  <main class="flex-grow-1 d-flex flex-column">
     {{ content }}
   </main>
-  {% include footer.html %}
 
   {% include analytics.html %}
   {% include scripts.html %}
